@@ -160,3 +160,4 @@
   ⚠️ EOF까지 입력을 그대로 출력  
   ⚠️ `while((ch=getchar()) != EOF) putchar(ch);`
 
+---
