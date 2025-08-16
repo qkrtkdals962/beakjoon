@@ -223,9 +223,9 @@
 - [2745 - 진법 변환](https://www.acmicpc.net/problem/2745)  
   ⚠️ B진수 → 10진수 변환  
   ⚠️ 입력 `N`은 문자열(`char N[31]`)로 받기 (A\~Z 포함)  
-  ⚠️ 문자 → 숫자 변환 : '0'~'9' → c - '0', 'A'~'Z' → c - 'A' + 10  
-  ⚠️ 변환 방식 ① 왼쪽→오른쪽 : num = num * B + digit;  
-  ⚠️ 변환 방식 ② 오른쪽→왼쪽 : num += digit * place; place *= B;  
+  ⚠️ 문자 → 숫자 변환: '0'\~'9' → c - '0', 'A'\~'Z' → c - 'A' + 10  
+  ⚠️ 변환 방식 ① 왼쪽→오른쪽: num = num * B + digit;  
+  ⚠️ 변환 방식 ② 오른쪽→왼쪽: num += digit * place; place *= B;  
   ⚠️ 출력은 long long → %lld 사용  
 
 - [11005 - 진법 변환 2](https://www.acmicpc.net/problem/11005)
