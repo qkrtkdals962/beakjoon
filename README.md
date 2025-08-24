@@ -338,12 +338,3 @@
 
 ---
 
-
-\[`\sum`{=tex}\_{t=1}\^m 1 = m\]
-
-\[`\sum`{=tex}\_{t=1}\^m t = `\frac{m(m+1)}{2}`{=tex}\]
-
-\[`\sum`{=tex}\_{t=1}\^m t\^2 = `\frac{m(m+1)(2m+1)}{6}`{=tex}\]
-
-\[`\sum`{=tex}\_{t=1}\^m t\^3 =
-`\left`{=tex}(`\frac{m(m+1)}{2}`{=tex}`\right`{=tex})\^2\]
